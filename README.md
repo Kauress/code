@@ -1,1 +1,1 @@
-Learning Git 2day
+Learning Git today on Learnable
